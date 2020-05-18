@@ -4,3 +4,4 @@
 3. [UserData](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/UserData.md) - понял как получать через консоль данные от пользователя и потом выводить их
 4. [LearnMath](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/LearnMath.md) - узнал способы математических вычислений
 5. [IfElse](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/IfElse.md) - понял что условные операторы тут такие же как и в JS
+6. [Cycle](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Cycle.md) - понял что циклы тут такие же как и в JS
