@@ -6,3 +6,4 @@
 5. [IfElse](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/IfElse.md) - понял что условные операторы тут такие же как и в JS
 6. [Cycle](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Cycle.md) - понял что циклы тут такие же как и в JS
 7. [Array](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Array.md) - узнал как создавать циклы
+    1. [ВН1] [QtoJSON](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/QtoJSON.md) - решил поэкспериментировать
