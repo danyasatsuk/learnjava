@@ -1,4 +1,4 @@
-## КлассОбж
+## [КлассОбж](https://github.com/danyasatsuk/learnjava/blob/master/src/com/danyasatsuk/ClassObj.java) и [КлассОбж1](https://github.com/danyasatsuk/learnjava/blob/master/src/com/danyasatsuk/ClassObj1.java)
 Познаем смысл классов и объектов
 
 Класс `ClassObj1`

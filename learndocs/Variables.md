@@ -1,4 +1,4 @@
-## Вариэйблс
+## [Вариэйблс](https://github.com/danyasatsuk/learnjava/blob/master/src/com/danyasatsuk/Variables.java)
 Какие переменные бывают в Java:
 1. `byte` - может поместить в себя 1 байт или от -128 и до 127
 2. `short` - может поместить в себя 2 байта или от -32768 и до 32767

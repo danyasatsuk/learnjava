@@ -1,4 +1,4 @@
-## Лёрн матх
+## [Лёрн матх](https://github.com/danyasatsuk/learnjava/blob/master/src/com/danyasatsuk/LearnMath.java)
 Здесь я разберу математику в Java. К примеру код:
 ```java
 package com.danyasatsuk;
