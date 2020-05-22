@@ -7,3 +7,4 @@
 6. [Cycle](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Cycle.md) - понял что циклы тут такие же как и в JS
 7. [Array](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Array.md) - узнал как создавать циклы
     1. [ВН1] [QtoJSON](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/QtoJSON.md) - решил поэкспериментировать
+8. [ClassObj](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/ClassObj.md) - классы, объекты, все дела
