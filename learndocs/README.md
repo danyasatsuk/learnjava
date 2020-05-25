@@ -8,4 +8,5 @@
 7. [Array](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Array.md) - узнал как создавать циклы
     1. [ВН1] [QtoJSON](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/QtoJSON.md) - решил поэкспериментировать
 8. [ClassObj](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/ClassObj.md) - классы, объекты, все дела
-8. [Constructor](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Constructor.md) - изучаю конструктор (никогда так в Lego не играл)
+9. [Constructor](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Constructor.md) - изучаю конструктор (никогда так в Lego не играл)
+10. [Polymorphism](https://github.com/danyasatsuk/learnjava/blob/master/learndocs/Polymorphism.md) - полиморфизм дело этакое
